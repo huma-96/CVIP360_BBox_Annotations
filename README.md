@@ -58,7 +58,7 @@ If you use this annotation set in your research, please cite both this repositor
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{[https://github.com/<your-repo-link>](https://github.com/huma-96/CVIP360_BBox_Annotations/tree/main)}},
+  howpublished = {\url{[https://github.com/huma-96/CVIP360_BBox_Annotations/tree/main]}},
   note         = {Custom YOLO-format annotations built on top of the CVIP360 dataset},
 }
 ```
