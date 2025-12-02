@@ -58,20 +58,27 @@ If you use this annotation set in your research, please cite both this repositor
   year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{https://github.com/<your-repo-link>}},
+  howpublished = {\url{[https://github.com/<your-repo-link>](https://github.com/huma-96/CVIP360_BBox_Annotations/tree/main)}},
   note         = {Custom YOLO-format annotations built on top of the CVIP360 dataset},
 }
 ```
 
 ### **BibTeX (CVIP360 Dataset – include this in papers)**  
-*(Replace with the official citation if you prefer)*
+
 
 ```bibtex
-@article{cvip360,
-  title     = {CVIP360: A Panoramic Vision Dataset for Depth Estimation and Scene Understanding},
-  author    = {Original CVIP360 Authors},
-  journal   = {arXiv preprint},
-  year      = {2020}
+@article{jimaging7080158,
+AUTHOR = {Mazzola, Giuseppe and Lo Presti, Liliana and Ardizzone, Edoardo and La Cascia, Marco},
+TITLE = {A Dataset of Annotated Omnidirectional Videos for Distancing Applications},
+JOURNAL = {Journal of Imaging},
+VOLUME = {7},
+YEAR = {2021},
+NUMBER = {8},
+ARTICLE-NUMBER = {158},
+URL = {https://www.mdpi.com/2313-433X/7/8/158},
+PubMedID = {34460794},
+ISSN = {2313-433X},
+DOI = {10.3390/jimaging7080158}
 }
 ```
 
