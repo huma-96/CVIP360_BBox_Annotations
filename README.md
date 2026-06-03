@@ -3,7 +3,7 @@
 This repository contains custom bounding box annotations derived from the **CVIP360 dataset**: https://drive.google.com/drive/folders/1LMPW3HJHtqMGcIFXFo74x3t0Kh2REuoS
 , which was originally released for **depth estimation** in omni-directional imaging. The CVIP360 dataset provides high-resolution 360° equirectangular frames with rich geometric structure, making it a strong baseline for omni-directional scene understanding.
 
-To enable research in **360-degree object detection**, this project adds new **YOLO-format bounding box annotations** (Download link: https://drive.google.com/drive/folders/1CknhfC4mMuAdGzyyltUja4qpqQ0rKhm9) on top of the original CVIP360 dataset. These annotations are designed to be compatible with wrap-around, projection-aware detection pipelines, including models modified for spherical or equirectangular vision.
+To enable research in **360-degree object detection**, this project adds new **YOLO-format bounding box annotations** (Download link: https://drive.google.com/drive/folders/1UrkxmJRKqtmdetvYX3pzbVNKRJ_vrRT1) on top of the original CVIP360 dataset. These annotations are designed to be compatible with wrap-around, projection-aware detection pipelines, including models modified for spherical or equirectangular vision.
 
 
 ---
