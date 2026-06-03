@@ -13,17 +13,9 @@ The folder structure follows standard YOLO layout:
 
 ```
 dataset/
- ├── train/
- │    ├── images/
- │    └── labels/
- ├── valid/
- │    ├── images/
- │    └── labels/
- ├── test/
- │    ├── images/
- │    └── labels/
- ├── data.yaml
-```
+   ├── images/
+   └── labels/
+
 
 Each `.txt` label file follows the YOLO bounding box format:
 
